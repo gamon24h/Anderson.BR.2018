@@ -1,0 +1,45 @@
+#EXTCPlayListM3U::M3U
+#EXTINF:0,[COLOR none] Doctora en Alabama - 1x01.mp4[/COLOR]
+plugin://plugin.video.palantir/?action=play&id=772&lin=n8fZoWqWcK3OoL-fytCqwM6cn5WuwZSUuZ3MwmTJxp2V1aSyxly4n8LVpsXGXpXVbqrRjraRzMJkx5Zek8i0vcqZwJHN0GSHnmRjmXC5kWOIZo-Xbn_RmqPbbXqRYIKR1co=&tit=RG9jdG9yYSBlbiBBbGFiYW1hIC0gMXgwMS5tcDQ=&type=series
+#EXTINF:0,[COLOR none] Doctora En Alabama - 1x02.avi[/COLOR]
+plugin://plugin.video.palantir/?action=play&id=772&lin=n8fZoWqWcK3OoL-fytCqwM6cn5WuwZSUuZ3MwmTJxp2V1aSyxly4n8LVpsXGXpXVbqrRjraRzMJkx5Zek8i0vcqZwJHN0GSHnmRjmXC5kWOIZo-YbH_RmqPbbXqRYIKR1co=&tit=RG9jdG9yYSBFbiBBbGFiYW1hIC0gMXgwMi5hdmk=&type=series
+#EXTINF:0,[COLOR none] Doctora en Alabama - 1x03.mp4[/COLOR]
+plugin://plugin.video.palantir/?action=play&id=772&lin=n8fZoWqWcK3OoL-fytCqwM6cn5WuwZSUuZ3MwmTJxp2V1aSyxly4n8LVpsXGXpXVbqrRjraRzMJkx5Zek8i0vcqZwJHN0GSHnmRjmXC5kWOIZo-XaH_RmqPbbXqRYIKR1co=&tit=RG9jdG9yYSBlbiBBbGFiYW1hIC0gMXgwMy5tcDQ=&type=series
+#EXTINF:0,[COLOR none] Doctora En Alabama - 1x04.avi[/COLOR]
+plugin://plugin.video.palantir/?action=play&id=772&lin=n8fZoWqWcK3OoL-fytCqwM6cn5WuwZSUuZ3MwmTJxp2V1aSyxly4n8LVpsXGXpXVbqrRjraRzMJkx5Zek8i0vcqZwJHN0GSHnmRjmXC5kWOIZo-XbX_RmqPbbXqRYIKR1co=&tit=RG9jdG9yYSBFbiBBbGFiYW1hIC0gMXgwNC5hdmk=&type=series
+#EXTINF:0,[COLOR none] Doctora En Alabama - 1x05.avi[/COLOR]
+plugin://plugin.video.palantir/?action=play&id=772&lin=n8fZoWqWcK3OoL-fytCqwM6cn5WuwZSUuZ3MwmTJxp2V1aSyxly4n8LVpsXGXpXVbqrRjraRzMJkx5Zek8i0vcqZwJHN0GSHnmRjmXC5kWOIZo-Yb3_RmqPbbXqRYIKR1co=&tit=RG9jdG9yYSBFbiBBbGFiYW1hIC0gMXgwNS5hdmk=&type=series
+#EXTINF:0,[COLOR none] Doctora En Alabama - 1x06.avi[/COLOR]
+plugin://plugin.video.palantir/?action=play&id=772&lin=n8fZoWqWcK3OoL-fytCqwM6cn5WuwZSUuZ3MwmTJxp2V1aSyxly4n8LVpsXGXpXVbqrRjraRzMJkx5Zek8i0vcqZwJHN0GSHnmRjmXC5kWOIZo-XbH_RmqPbbXqRYIKR1co=&tit=RG9jdG9yYSBFbiBBbGFiYW1hIC0gMXgwNi5hdmk=&type=series
+#EXTINF:0,[COLOR none] Doctora En Alabama - 1x07.avi[/COLOR]
+plugin://plugin.video.palantir/?action=play&id=772&lin=n8fZoWqWcK3OoL-fytCqwM6cn5WuwZSUuZ3MwmTJxp2V1aSyxly4n8LVpsXGXpXVbqrRjraRzMJkx5Zek8i0vcqZwJHN0GSHnmRjmXC5kWOIZpCTaH_RmqPbbXqRYIKR1co=&tit=RG9jdG9yYSBFbiBBbGFiYW1hIC0gMXgwNy5hdmk=&type=series
+#EXTINF:0,[COLOR none] Doctora En Alabama - 1x08.avi[/COLOR]
+plugin://plugin.video.palantir/?action=play&id=772&lin=n8fZoWqWcK3OoL-fytCqwM6cn5WuwZSUuZ3MwmTJxp2V1aSyxly4n8LVpsXGXpXVbqrRjraRzMJkx5Zek8i0vcqZwJHN0GSHnmRjmXC5kWOIZpCTaX_RmqPbbXqRYIKR1co=&tit=RG9jdG9yYSBFbiBBbGFiYW1hIC0gMXgwOC5hdmk=&type=series
+#EXTINF:0,[COLOR none] Doctora En Alabama - 1x09.avi[/COLOR]
+plugin://plugin.video.palantir/?action=play&id=772&lin=n8fZoWqWcK3OoL-fytCqwM6cn5WuwZSUuZ3MwmTJxp2V1aSyxly4n8LVpsXGXpXVbqrRjraRzMJkx5Zek8i0vcqZwJHN0GSHnmRjmXC5kWOIZpCTZ3_RmqPbbXqRYIKR1co=&tit=RG9jdG9yYSBFbiBBbGFiYW1hIC0gMXgwOS5hdmk=&type=series
+#EXTINF:0,[COLOR none] Doctora En Alabama - 1x10.avi[/COLOR]
+plugin://plugin.video.palantir/?action=play&id=772&lin=n8fZoWqWcK3OoL-fytCqwM6cn5WuwZSUuZ3MwmTJxp2V1aSyxly4n8LVpsXGXpXVbqrRjraRzMJkx5Zek8i0vcqZwJHN0GSHnmRjmXC5kWOIZpCSb3_RmqPbbXqRYIKR1co=&tit=RG9jdG9yYSBFbiBBbGFiYW1hIC0gMXgxMC5hdmk=&type=series
+#EXTINF:0,[COLOR none] Doctora En Alabama - 1x11.avi[/COLOR]
+plugin://plugin.video.palantir/?action=play&id=772&lin=n8fZoWqWcK3OoL-fytCqwM6cn5WuwZSUuZ3MwmTJxp2V1aSyxly4n8LVpsXGXpXVbqrRjraRzMJkx5Zek8i0vcqZwJHN0GSHnmRjmXC5kWOIZpCSan_RmqPbbXqRYIKR1co=&tit=RG9jdG9yYSBFbiBBbGFiYW1hIC0gMXgxMS5hdmk=&type=series
+#EXTINF:0,[COLOR none] Doctora En Alabama - 1x12.avi[/COLOR]
+plugin://plugin.video.palantir/?action=play&id=772&lin=n8fZoWqWcK3OoL-fytCqwM6cn5WuwZSUuZ3MwmTJxp2V1aSyxly4n8LVpsXGXpXVbqrRjraRzMJkx5Zek8i0vcqZwJHN0GSHnmRjmXC5kWOIZpCTan_RmqPbbXqRYIKR1co=&tit=RG9jdG9yYSBFbiBBbGFiYW1hIC0gMXgxMi5hdmk=&type=series
+#EXTINF:0,[COLOR none] Doctora En Alabama - 1x13.avi[/COLOR]
+plugin://plugin.video.palantir/?action=play&id=772&lin=n8fZoWqWcK3OoL-fytCqwM6cn5WuwZSUuZ3MwmTJxp2V1aSyxly4n8LVpsXGXpXVbqrRjraRzMJkx5Zek8i0vcqZwJHN0GSHnmRjmXC5kWOIZpCSa3_RmqPbbXqRYIKR1co=&tit=RG9jdG9yYSBFbiBBbGFiYW1hIC0gMXgxMy5hdmk=&type=series
+#EXTINF:0,[COLOR none] Doctora En Alabama - 1x14.avi[/COLOR]
+plugin://plugin.video.palantir/?action=play&id=772&lin=n8fZoWqWcK3OoL-fytCqwM6cn5WuwZSUuZ3MwmTJxp2V1aSyxly4n8LVpsXGXpXVbqrRjraRzMJkx5Zek8i0vcqZwJHN0GSHnmRjmXC5kWOIZpCRbX_RmqPbbXqRYIKR1co=&tit=RG9jdG9yYSBFbiBBbGFiYW1hIC0gMXgxNC5hdmk=&type=series
+#EXTINF:0,[COLOR none] Doctora En Alabama - 1x15.avi[/COLOR]
+plugin://plugin.video.palantir/?action=play&id=772&lin=n8fZoWqWcK3OoL-fytCqwM6cn5WuwZSUuZ3MwmTJxp2V1aSyxly4n8LVpsXGXpXVbqrRjraRzMJkx5Zek8i0vcqZwJHN0GSHnmRjmXC5kWOIZpCSbX_RmqPbbXqRYIKR1co=&tit=RG9jdG9yYSBFbiBBbGFiYW1hIC0gMXgxNS5hdmk=&type=series
+#EXTINF:0,[COLOR none] Doctora En Alabama - 1x16.avi[/COLOR]
+plugin://plugin.video.palantir/?action=play&id=772&lin=n8fZoWqWcK3OoL-fytCqwM6cn5WuwZSUuZ3MwmTJxp2V1aSyxly4n8LVpsXGXpXVbqrRjraRzMJkx5Zek8i0vcqZwJHN0GSHnmRjmXC5kWOIZpCSZ3_RmqPbbXqRYIKR1co=&tit=RG9jdG9yYSBFbiBBbGFiYW1hIC0gMXgxNi5hdmk=&type=series
+#EXTINF:0,[COLOR none] Doctora En Alabama - 1x17.avi[/COLOR]
+plugin://plugin.video.palantir/?action=play&id=772&lin=n8fZoWqWcK3OoL-fytCqwM6cn5WuwZSUuZ3MwmTJxp2V1aSyxly4n8LVpsXGXpXVbqrRjraRzMJkx5Zek8i0vcqZwJHN0GSHnmRjmXC5kWOIZpCRan_RmqPbbXqRYIKR1co=&tit=RG9jdG9yYSBFbiBBbGFiYW1hIC0gMXgxNy5hdmk=&type=series
+#EXTINF:0,[COLOR none] Doctora En Alabama - 1x18.avi[/COLOR]
+plugin://plugin.video.palantir/?action=play&id=772&lin=n8fZoWqWcK3OoL-fytCqwM6cn5WuwZSUuZ3MwmTJxp2V1aSyxly4n8LVpsXGXpXVbqrRjraRzMJkx5Zek8i0vcqZwJHN0GSHnmRjmXC5kWOIZpCRaH_RmqPbbXqRYIKR1co=&tit=RG9jdG9yYSBFbiBBbGFiYW1hIC0gMXgxOC5hdmk=&type=series
+#EXTINF:0,[COLOR none] Doctora En Alabama - 1x19.avi[/COLOR]
+plugin://plugin.video.palantir/?action=play&id=772&lin=n8fZoWqWcK3OoL-fytCqwM6cn5WuwZSUuZ3MwmTJxp2V1aSyxly4n8LVpsXGXpXVbqrRjraRzMJkx5Zek8i0vcqZwJHN0GSHnmRjmXC5kWOIZpCRaX_RmqPbbXqRYIKR1co=&tit=RG9jdG9yYSBFbiBBbGFiYW1hIC0gMXgxOS5hdmk=&type=series
+#EXTINF:0,[COLOR none] Doctora En Alabama - 1x20.avi[/COLOR]
+plugin://plugin.video.palantir/?action=play&id=772&lin=n8fZoWqWcK3OoL-fytCqwM6cn5WuwZSUuZ3MwmTJxp2V1aSyxly4n8LVpsXGXpXVbqrRjraRzMJkx5Zek8i0vcqZwJHN0GSHnmRjmXC5kWOIZpCRZ3_RmqPbbXqRYIKR1co=&tit=RG9jdG9yYSBFbiBBbGFiYW1hIC0gMXgyMC5hdmk=&type=series
+#EXTINF:0,[COLOR none] Doctora En Alabama - 1x21.avi[/COLOR]
+plugin://plugin.video.palantir/?action=play&id=772&lin=n8fZoWqWcK3OoL-fytCqwM6cn5WuwZSUuZ3MwmTJxp2V1aSyxly4n8LVpsXGXpXVbqrRjraRzMJkx5Zek8i0vcqZwJHN0GSHnmRjmXC5kWOIZpCRa3_RmqPbbXqRYIKR1co=&tit=RG9jdG9yYSBFbiBBbGFiYW1hIC0gMXgyMS5hdmk=&type=series
+#EXTINF:0,[COLOR none] Doctora En Alabama - 1x22.avi[/COLOR]
+plugin://plugin.video.palantir/?action=play&id=772&lin=n8fZoWqWcK3OoL-fytCqwM6cn5WuwZSUuZ3MwmTJxp2V1aSyxly4n8LVpsXGXpXVbqrRjraRzMJkx5Zek8i0vcqZwJHN0GSHnmRjmXC5kWOIZpCRbH_RmqPbbXqRYIKR1co=&tit=RG9jdG9yYSBFbiBBbGFiYW1hIC0gMXgyMi5hdmk=&type=series
